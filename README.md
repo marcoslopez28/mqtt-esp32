@@ -18,6 +18,7 @@ ESP32 (Publisher) → Mosquitto (Broker en laptop) → Subscriber (Laptop)
 2. Se creó un archivo de configuración llamado **mosquitto.conf** con el siguiente contenido:
 
 listener 1883
+
 allow_anonymous true
 
 3. Se ejecutó Mosquitto con el siguiente comando:
