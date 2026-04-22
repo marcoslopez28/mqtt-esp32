@@ -2,6 +2,7 @@
 
 ## Descripción
 
+López Ramos Marcos Isaid - 2023630251
 En esta práctica se realizó la implementación de una comunicación usando el protocolo MQTT dentro de una arquitectura IoT. Se utilizó una ESP32 como dispositivo publisher para enviar mensajes y una computadora con Mosquitto funcionando como broker. También se utilizó la misma computadora como subscriber para verificar la recepción de los mensajes debido a la falta de una RaspBerry pi como se solicitó en la práctica.
 
 ## Arquitectura
